@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Meus Projetos\\project-lambda-dotnet\\ImageProcessingLambda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E572921-9437-412D-B199-41BA8C35073C}|src\\ImageProcessingLambda\\ImageProcessingLambda.csproj|c:\\projetos\\meus projetos\\project-lambda-dotnet\\imageprocessinglambda\\src\\imageprocessinglambda\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E572921-9437-412D-B199-41BA8C35073C}|src\\ImageProcessingLambda\\ImageProcessingLambda.csproj|solutionrelative:src\\imageprocessinglambda\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E3D90A-E405-46CD-932A-552BD9E548B9}|test\\ImageProcessingLambda.Tests\\ImageProcessingLambda.Tests.csproj|c:\\projetos\\meus projetos\\project-lambda-dotnet\\imageprocessinglambda\\test\\imageprocessinglambda.tests\\functiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E3D90A-E405-46CD-932A-552BD9E548B9}|test\\ImageProcessingLambda.Tests\\ImageProcessingLambda.Tests.csproj|solutionrelative:test\\imageprocessinglambda.tests\\functiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FunctionTest.cs",
+              "DocumentMoniker": "C:\\Projetos\\Meus Projetos\\project-lambda-dotnet\\ImageProcessingLambda\\test\\ImageProcessingLambda.Tests\\FunctionTest.cs",
+              "RelativeDocumentMoniker": "test\\ImageProcessingLambda.Tests\\FunctionTest.cs",
+              "ToolTip": "C:\\Projetos\\Meus Projetos\\project-lambda-dotnet\\ImageProcessingLambda\\test\\ImageProcessingLambda.Tests\\FunctionTest.cs",
+              "RelativeToolTip": "test\\ImageProcessingLambda.Tests\\FunctionTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:12:14.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function.cs",
+              "DocumentMoniker": "C:\\Projetos\\Meus Projetos\\project-lambda-dotnet\\ImageProcessingLambda\\src\\ImageProcessingLambda\\Function.cs",
+              "RelativeDocumentMoniker": "src\\ImageProcessingLambda\\Function.cs",
+              "ToolTip": "C:\\Projetos\\Meus Projetos\\project-lambda-dotnet\\ImageProcessingLambda\\src\\ImageProcessingLambda\\Function.cs",
+              "RelativeToolTip": "src\\ImageProcessingLambda\\Function.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAEwEcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T18:07:47.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

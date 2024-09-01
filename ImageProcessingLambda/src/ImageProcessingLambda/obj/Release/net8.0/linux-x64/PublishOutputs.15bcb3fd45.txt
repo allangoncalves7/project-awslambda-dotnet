@@ -1,0 +1,10 @@
+C:\Projetos\Meus Projetos\project-lambda-dotnet\ImageProcessingLambda\src\ImageProcessingLambda\bin\Release\net8.0\publish\ImageProcessingLambda.deps.json
+C:\Projetos\Meus Projetos\project-lambda-dotnet\ImageProcessingLambda\src\ImageProcessingLambda\bin\Release\net8.0\publish\ImageProcessingLambda.runtimeconfig.json
+C:\Projetos\Meus Projetos\project-lambda-dotnet\ImageProcessingLambda\src\ImageProcessingLambda\bin\Release\net8.0\publish\ImageProcessingLambda.pdb
+C:\Projetos\Meus Projetos\project-lambda-dotnet\ImageProcessingLambda\src\ImageProcessingLambda\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Projetos\Meus Projetos\project-lambda-dotnet\ImageProcessingLambda\src\ImageProcessingLambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Projetos\Meus Projetos\project-lambda-dotnet\ImageProcessingLambda\src\ImageProcessingLambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Projetos\Meus Projetos\project-lambda-dotnet\ImageProcessingLambda\src\ImageProcessingLambda\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Projetos\Meus Projetos\project-lambda-dotnet\ImageProcessingLambda\src\ImageProcessingLambda\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll
+C:\Projetos\Meus Projetos\project-lambda-dotnet\ImageProcessingLambda\src\ImageProcessingLambda\bin\Release\net8.0\publish\AWSSDK.S3.dll
+C:\Projetos\Meus Projetos\project-lambda-dotnet\ImageProcessingLambda\src\ImageProcessingLambda\bin\Release\net8.0\publish\ImageProcessingLambda.dll
