@@ -16,3 +16,14 @@ This project is a serverless application developed with AWS Lambda, API Gateway,
 
 5. **Testing with Postman**: Use Postman to send requests to the API Gateway and verify that the image is correctly stored in S3 and that the metadata is saved in DynamoDB.
 
+##
+
+<p align="center">
+  <img
+    src="ImageProcessingLambda/src/ImageProcessingLambda/images/diagram.jpeg" 
+    alt="diagram" 
+    width="500" 
+    height="300">
+</p>
+
+
